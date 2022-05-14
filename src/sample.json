@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "tittle":"aliens",
+        "director":"james cameron",
+        "year":"1986",
+        "rating":"8.5"
+    },
+    {
+        "id":"2",
+        "tittle":"the dark knigth",
+        "director":"cristopher nolan",
+        "year":"2008",
+        "rating":"10"
+    }
+]
